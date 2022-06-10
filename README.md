@@ -21,7 +21,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/RobertSmithers/NatureNews">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="150" height="150">
   </a>
 
 <h3 align="center">NatureNews</h3>
@@ -69,8 +69,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Teeth Art][teeth-art1]](https://github.com/RobertSmithers/NatureNews)
-[![Teeth Art][teeth-art2]](https://github.com/RobertSmithers/NatureNews)
+TBD
+
+<!-- [![Product Art][art1]](https://github.com/RobertSmithers/NatureNews)
+[![Product Art][art1]](https://github.com/RobertSmithers/NatureNews) -->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
