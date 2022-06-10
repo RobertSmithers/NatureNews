@@ -88,9 +88,9 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-### Demo
-```diff
-- To try our program or test your own x-ray image, open 'Test.ipynb' and follow instruction.
+### Demo (TBD)
+```
+
 ```
 
 <!-- ### Prerequisites
@@ -132,10 +132,9 @@ TBD
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Ground Truth Masking
-- [x] Data Augmentation
-- [x] Model Optimization
-    - [x] Autonomous model saving
+- [] TBD
+- [] TBD
+- [] TBD
 
 See the [open issues](https://github.com/RobertSmithers/NatureNews/issues) for a full list of proposed features (and known issues).
 
@@ -184,7 +183,9 @@ Robert Smithers - [Website](https://robertsmithers.github.io/) - rjsmithers3@gma
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-[![Environmental Science Art][product-screenshot]](https://github.com/RobertSmithers/NatureNews)
+<div align="center">
+    <img src="images/footer.png" alt="Logo" width="200" height="200">
+</div>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -200,7 +201,6 @@ Robert Smithers - [Website](https://robertsmithers.github.io/) - rjsmithers3@gma
 [license-url]: https://github.com/RobertSmithers/NatureNews/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 <!-- [linkedin-url]: https://linkedin.com/in/linkedin_username -->
-[product-screenshot]: images/footer.jpg
-<!-- [teeth-art]: images/logo.png -->
+[product-screenshot]: images/footer.png
 [teeth-art1]: images/input.png
 [teeth-art2]: images/predicted.png
