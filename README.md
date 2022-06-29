@@ -27,7 +27,7 @@
 <h3 align="center">NatureNews</h3>
 
   <p align="center">
-    This Artificial Intelligence program gathers the top 5 news in the Life Cycle Assessment domain and summarizes each one.
+    This Artificial Intelligence program gathers the top 5 pieces of news in the Life Cycle Assessment domain and summarizes each one.
     <br />
     <br />
     <a href="https://github.com/RobertSmithers/NatureNews/issues">Report Bug</a>
