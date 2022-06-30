@@ -3,6 +3,7 @@ fairseq
 hydra-core
 numpy
 pyaml
+PyQt6
 scipy
 omegaconf
 regex
